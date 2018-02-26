@@ -1,0 +1,33 @@
+---
+name: The Netty project
+description: Netty is an asynchronous event-driven network application framework for
+  rapid development of maintainable high performance protocol servers  clients. Netty
+  is a NIO client server framework which enables quick and easy development of network
+  applications such as protocol servers and clients. It greatly simplifies and streamlines
+  network programming such as TCP and UDP socket server.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netty-project.png
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Stack Network
+- Real Time
+created: "2018-02-25"
+modified: "2018-02-25"
+url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/the-netty-project/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/netty_project
+- type: x-github
+  url: https://github.com/netty/
+- type: x-twitter
+  url: https://twitter.com/netty_project
+- type: x-website
+  url: http://netty.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
