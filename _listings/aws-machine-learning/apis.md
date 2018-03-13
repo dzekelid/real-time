@@ -36,7 +36,7 @@ apis:
   tags: Real Time
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/aws-machine-learning/action-deleterealtimeendpoint-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/aws-machine-learning/action-describetags-get.md
 x-common:
 - type: x-command-line-interface
   url: http://aws.amazon.com/cli/
