@@ -12,9 +12,9 @@ tags:
 - Google APIs
 - Analytics
 - Analysis
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/google-analytics/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/google-analytics/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Google Analytics
@@ -27,7 +27,7 @@ apis:
   tags: Real Time
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/google-analytics/data-realtime-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/google-analytics/data-realtime-get.md
 x-common:
 - type: x-blog
   url: https://analytics.googleblog.com/
