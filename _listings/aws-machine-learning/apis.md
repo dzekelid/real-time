@@ -22,9 +22,9 @@ tags:
 - Stack Network
 - Machine Learning
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/aws-machine-learning/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Machine Learning API
@@ -36,7 +36,7 @@ apis:
   tags: Real Time
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/aws-machine-learning/action-describetags-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/action-createrealtimeendpoint-get.md
 x-common:
 - type: x-command-line-interface
   url: http://aws.amazon.com/cli/
