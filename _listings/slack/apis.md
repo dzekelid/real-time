@@ -39,7 +39,7 @@ apis:
   tags: Real Time
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/slack/search-messages-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/slack/rtm-start-get.md
 x-common:
 - type: x-application-gallery
   url: https://slack.com/apps
