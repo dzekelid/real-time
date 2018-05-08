@@ -4,7 +4,7 @@ url: real-time.streamdata.gallery
 tag: Real Time
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: real-time
 github_branch: master
 collections:
