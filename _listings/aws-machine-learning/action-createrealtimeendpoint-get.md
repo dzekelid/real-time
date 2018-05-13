@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Machine Learning API
+  title: AWS Machine Learning API Create Realtime Endpoint
   version: 1.0.0
+  description: Creates a real-time endpoint for the MLModel.
 schemes:
 - http
 produces:
