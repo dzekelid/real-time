@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Machine Learning API
+  title: AWS Machine Learning API Delete Realtime Endpoint
   version: 1.0.0
+  description: Deletes a real time endpoint of an MLModel.
 schemes:
 - http
 produces:
