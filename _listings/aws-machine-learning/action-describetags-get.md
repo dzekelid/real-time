@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Machine Learning API
+  title: AWS Machine Learning API Describe Tags
   version: 1.0.0
+  description: Describes one or more of the tags for your Amazon ML object.
 schemes:
 - http
 produces:
