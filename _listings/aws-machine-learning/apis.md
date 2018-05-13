@@ -37,15 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/action-describetags-get.md
-- name: AWS Machine Learning API Delete Realtime Endpoint
-  description: Deletes a real time endpoint of an MLModel.
+- name: AWS Machine Learning API Describe Tags
+  description: Describes one or more of the tags for your Amazon ML object.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonMachineLearning.png
   humanURL: https://aws.amazon.com/machine-learning/
   baseURL: http:://{host}//
   tags: Real Time
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/action-deleterealtimeendpoint-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/action-describetags-get.md
 x-common:
 - type: x-command-line-interface
   url: http://aws.amazon.com/cli/
