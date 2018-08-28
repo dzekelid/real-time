@@ -1,5 +1,6 @@
 ---
 name: Apache Apollo
+x-slug: apache-apollo
 description: ActiveMQ Apollo is a faster, more reliable, easier to maintain messaging
   broker built from the foundations of the original ActiveMQ. It accomplishes this
   using a radically different threading and message dispatching architecture. Like
@@ -7,14 +8,11 @@ description: ActiveMQ Apollo is a faster, more reliable, easier to maintain mess
   SSL, and WebSockets.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-apollo-logo.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Real Time
-- Apache
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/apache-apollo/apis.yaml
+x-alexaRank: "0"
+tags: Real Time
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/apache-apollo/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:

@@ -1,0 +1,641 @@
+{
+	"name": "Streadata.io API Gallery - Real Time",
+	"description": "This is a repository of real time APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/real-time.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://real-time.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Firebase",
+			"x-api-slug": "firebase",
+			"description": "Firebase is a mobile platform that gives developers the tools and infrastructure to build better apps and grow successful businesses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png",
+			"humanURL": "https://Firebase.google.com",
+			"baseURL": "https://{project_id].firebaseio.co}//",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/firebase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pusher",
+			"x-api-slug": "pusher",
+			"description": "Pusher empowers developer with API to create collaboration & communication features in their web and mobile apps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/44-pusher.jpg",
+			"humanURL": "https://pusher.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/pusher/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Superfeedr",
+			"x-api-slug": "superfeedr",
+			"description": "Superfeedr : Real-time feed API - RSS and Atom over PubSubHubbub. Superfeedr pushes RSS feeds in real-time for both publishers and subscribers, with open protocols and APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/89-superfeedr.jpg",
+			"humanURL": "https://superfeedr.com/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/superfeedr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PubNub",
+			"x-api-slug": "pubnub",
+			"description": "Focus on innovation and launch fast with our realtime APIs and global messaging infrastructure for web, mobile, and Internet of Things.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/98-pubnub.jpg",
+			"humanURL": "https://www.pubnub.com/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/pubnub/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LoginRadius",
+			"x-api-slug": "loginradius",
+			"description": "Simplify customer authentication and authorization to amplify your business with better understanding of your audience using our customer identity management",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1086-loginradius.jpg",
+			"humanURL": "http://www.loginradius.com/",
+			"baseURL": ":///login/http://localhost:8008/_matrix/client/api/v1",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/loginradius/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pushwoosh",
+			"x-api-slug": "pushwoosh",
+			"description": "Pushwoosh helps you address your audience with highly customizable push notifications. Speak to the users on their own language, deliver your values and push the world",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1120-pushwoosh.jpg",
+			"humanURL": "http://www.pushwoosh.com/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/pushwoosh/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fanout",
+			"x-api-slug": "fanout",
+			"description": "Fanout???s reverse proxy helps you push data to connected devices instantly.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2168-fanout.jpg",
+			"humanURL": "https://fanout.io/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/fanout/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Realtime.co",
+			"x-api-slug": "realtime-co",
+			"description": "Realtime Messaging is a cloud based message broker. Enabling developers to build cross-platform apps that require realtime communication between devices. Spend time building your app not managing infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2182-realtime-co.jpg",
+			"humanURL": "http://www.realtime.co/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/realtime-co/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Matrix",
+			"x-api-slug": "matrix",
+			"description": "An open standard for decentralised secure communication. Please support at https://t.co/oZd61hbMx3! | bridged to https://t.co/ujgzEXDSa4",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11769-matrix.jpg",
+			"humanURL": "http://matrix.org/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/matrix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Slack",
+			"x-api-slug": "slack",
+			"description": "Slack is a team communication application providing services such as real-time messaging, archiving, and to search for modern teams. It offers one-on-one messaging, private groups, persistent chat rooms, and direct messaging as well as group chats organized by topic. All content inside Slack is searchable from one search box and it integrates with a number of third-party services, including Google Docs, Dropbox, Heroku, Crashlytics, GitHub, and Zendesk.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slack-logo.png",
+			"humanURL": "https://api.slack.com",
+			"baseURL": "https://slack.com//api",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/slack/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Netty",
+			"x-api-slug": "netty",
+			"description": "Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers &amp; clients. Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netty-project.png",
+			"humanURL": "http://netty.io/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/netty/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apache Apollo",
+			"x-api-slug": "apache-apollo",
+			"description": "ActiveMQ Apollo is a faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ. It accomplishes this using a radically different threading and message dispatching architecture. Like ActiveMQ, Apollo is a multi-protocol broker and supports STOMP, AMQP, MQTT, Openwire, SSL, and WebSockets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-apollo-logo.png",
+			"humanURL": "http://activemq.apache.org/apollo/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/apache-apollo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Streamdata.io",
+			"x-api-slug": "streamdata-io",
+			"description": "In 5 minutes: turn any API into an event-driven streaming API; impress your customers; forget about scalability issues and watch your business grow in real time. Welcome to Streamdata.io!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18697-streamdata-io.jpg",
+			"humanURL": "https://streamdata.io",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamdata-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloudBoost.io",
+			"x-api-slug": "cloudboost-io",
+			"description": "CloudBoost lets you build mobile and web applications that scale.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18919-cloudboost-io.jpg",
+			"humanURL": "https://www.cloudboost.io/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/cloudboost-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apache Flink",
+			"x-api-slug": "apache-flink",
+			"description": "Flink&rsquo;s core is a streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams. Flink includes several APIs for creating applications that use the Flink engine. You can integrate Flink easily with other well-known open source systems both for data input and output as well as deployment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-fink.jpeg",
+			"humanURL": "https://flink.apache.org/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/apache-flink/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Logmatic.io",
+			"x-api-slug": "logmatic-io",
+			"description": "Log Centralization, Analytics & Visualization in one Log Analyzer to Improve Software & Business Performance. 100% Cloud Based, No Agent, Free Trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19913-logmatic-io.jpg",
+			"humanURL": "https://logmatic.io",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/logmatic-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Heartbeat",
+			"x-api-slug": "heartbeat",
+			"description": "Build powerful realtime and search experiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20073-heartbeat.jpg",
+			"humanURL": "https://heartbeat.appbase.io/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/heartbeat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Kinesis",
+			"x-api-slug": "aws-kinesis",
+			"description": "Amazon Kinesis Firehose is the easiest way to load streaming data into AWS. It can capture, transform, and load streaming data into Amazon Kinesis Analytics, Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling near real-time analytics with existing business intelligence tools and dashboards you are already using today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png",
+			"humanURL": "https://aws.amazon.com/kinesis/",
+			"baseURL": ":///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-kinesis/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Machine Learning",
+			"x-api-slug": "aws-machine-learning",
+			"description": "Amazon Machine Learning is a service that makes it easy for developers of all skill levels to use machine learning technology. Amazon Machine Learning provides visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology. Once your models are ready, Amazon Machine Learning makes it easy to obtain predictions for your application using simple APIs, without having to implement custom prediction generation code, or manage any infrastructure.Amazon Machine Learning is based on the same proven, highly scalable, ML technology used for years by Amazon&rsquo;s internal data scientist community. The service uses powerful algorithms to create ML models by finding patterns in your existing data. Then, Amazon Machine Learning uses these models to process new data and generate predictions for your application.Amazon Machine Learning is highly scalable and can generate billions of predictions daily, and serve those predictions in real-time and at high throughput. With Amazon Machine Learning, there is no upfront hardware or software investment, and you pay as you go, so you can start small and scale as your application grows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonMachineLearning.png",
+			"humanURL": "https://aws.amazon.com/machine-learning/",
+			"baseURL": ":///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Pub Sub",
+			"x-api-slug": "google-cloud-pub-sub",
+			"description": "Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications. You can leverage Cloud Pub/Sub&rsquo;s flexibility to decouple systems and components hosted on Google Cloud Platform or elsewhere on the Internet. By building on the same technology Google uses, Cloud Pub/Sub is designed to provide &ldquo;at least once&rdquo; delivery at low latency with on-demand scalability to 1 million messages per second (and beyond).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png",
+			"humanURL": "https://cloud.google.com/pubsub/docs/",
+			"baseURL": "://pubsub.googleapis.com//",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/google-cloud-pub-sub/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Streamr",
+			"x-api-slug": "streamr",
+			"description": "Data done differently with our realtime #data Marketplace & p2p decentralised Network supported by #Ethereum. #IoT   #blockchain  $DATA #cryptocurrencies",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg",
+			"humanURL": "http://www.streamr.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Streamlio",
+			"x-api-slug": "streamlio",
+			"description": "Real-time solution for messaging, processing, and storage of streaming data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28190-streaml-io.jpg",
+			"humanURL": "https://streaml.io",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamlio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StreamSets",
+			"x-api-slug": "streamsets",
+			"description": "StreamSets software delivers performance management for data flows that feed the next generation of big data applications. Its mission is to bring operational excellence to the management of data in motion, so that data continually arrives on-time and with quality, empowering business-critical analysis and decision-making.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28193-streamsets.jpg",
+			"humanURL": "http://streamsets.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamsets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Landoop",
+			"x-api-slug": "landoop",
+			"description": "At Landoop we help you join the fast data streaming revolution. We have a strong big and fast data culture, and highly focused on Apache Kafka, we are making solutions that aim to simplify your interaction with a complex stack. Streaming Data Pipelines at their best: Kafka native and Kubernets native. We help engineers understand their platform. We help companies join the streaming world. We focus on technology and products that streamline your data pipelines, connect with external systems, easily manage your cluster and zoom into it!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28195-www-landoop-com.jpg",
+			"humanURL": "http://www.landoop.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/landoop/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Socket.IO",
+			"x-api-slug": "socket-io",
+			"description": "Socket.IO enables real-time bidirectional event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28198-socket-io.jpg",
+			"humanURL": "https://socket.io",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/socket-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Confluent",
+			"x-api-slug": "confluent",
+			"description": "Confluent, founded by the creators of Apache Kafka, delivers a complete execution of Kafka for the Enterprise, to help you run your business in real time.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28237-www-confluent-io.jpg",
+			"humanURL": "https://www.confluent.io",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/confluent/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Price List Service",
+			"x-api-slug": "aws-price-list-service",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-kafka.png",
+			"humanURL": "http://api.pricing.amazonaws.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-price-list-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Io T Jobs Data Plane",
+			"x-api-slug": "aws-io-t-jobs-data-plane",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/beam-logo-full-color-name-bottom-1000.png",
+			"humanURL": "http://data.jobs.iot.amazonaws.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-io-t-jobs-data-plane/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Striim",
+			"x-api-slug": "striim",
+			"description": "Striim (pronounced stream) provides an end-to-end, real-time data integration + streaming analytics platform. Leverage change data capture (CDC) to access data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg",
+			"humanURL": "https://www.striim.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/striim/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lightstreamer",
+			"x-api-slug": "lightstreamer",
+			"description": "Lightstreamer is a top-performing real-time messaging server optimized for the Internet. Blending WebSockets, HTTP, and push notifications, it streams data to/from mobile, tablet, browser-based, desktop, and IoT applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28721-lightstreamer-com.jpg",
+			"humanURL": "http://www.lightstreamer.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/lightstreamer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Push Technology",
+			"x-api-slug": "push-technology",
+			"description": "We make the Internet work for our mobile-obsessed, everything-connected world. Leading brands like 888 Holdings, DAB Bank, IBM, and William Hill leverage our technology to power applications critical to revenue growth, customer engagement, and business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28733-www-pushtechnology-com.jpg",
+			"humanURL": "http://www.pushtechnology.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/push-technology/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure SignalR",
+			"x-api-slug": "azure-signalr",
+			"description": "The Azure SignalR Service is an Azure service based onASP.NET Core SignalR. ASP.NET Core SignalR is anopen source librarythat simplifies the process of adding real-time web functionality to applications over HTTP. This real-time functionality allows the web server to push content updates to connected clients. As a result, clients are updated without the need to poll the server, or submit new HTTP requests for updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/signalr.png",
+			"humanURL": "https://docs.microsoft.com/en-us/azure/azure-signalr/",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/azure-signalr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kaazing",
+			"x-api-slug": "kaazing",
+			"description": "Kaazing, creator of the widely-adopted WebSocket standard, offers a range of enterprise infrastructure products with unmatched security, performance and real-time capabilities, to seamlessly enable next generation private and hybrid cloud deployments for financial, logistics and retail applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kaazing-logo.png",
+			"humanURL": "http://www.kaazing.com",
+			"baseURL": "https:///",
+			"tags": "Real Time",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/kaazing/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Real Time",
+	"include": [
+		{
+			"name": "Firebase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/firebase/apis.yaml"
+		},
+		{
+			"name": "Pusher",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/pusher/apis.yaml"
+		},
+		{
+			"name": "Superfeedr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/superfeedr/apis.yaml"
+		},
+		{
+			"name": "PubNub",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/pubnub/apis.yaml"
+		},
+		{
+			"name": "LoginRadius",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/loginradius/apis.yaml"
+		},
+		{
+			"name": "Pushwoosh",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/pushwoosh/apis.yaml"
+		},
+		{
+			"name": "Fanout",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/fanout/apis.yaml"
+		},
+		{
+			"name": "Realtime.co",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/realtime-co/apis.yaml"
+		},
+		{
+			"name": "Matrix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/matrix/apis.yaml"
+		},
+		{
+			"name": "Slack",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/slack/apis.yaml"
+		},
+		{
+			"name": "Netty",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/netty/apis.yaml"
+		},
+		{
+			"name": "Apache Apollo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/apache-apollo/apis.yaml"
+		},
+		{
+			"name": "Streamdata.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamdata-io/apis.yaml"
+		},
+		{
+			"name": "CloudBoost.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/cloudboost-io/apis.yaml"
+		},
+		{
+			"name": "Apache Flink",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/apache-flink/apis.yaml"
+		},
+		{
+			"name": "Logmatic.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/logmatic-io/apis.yaml"
+		},
+		{
+			"name": "Heartbeat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/heartbeat/apis.yaml"
+		},
+		{
+			"name": "AWS Kinesis",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-kinesis/apis.yaml"
+		},
+		{
+			"name": "AWS Machine Learning",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-machine-learning/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Pub Sub",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/google-cloud-pub-sub/apis.yaml"
+		},
+		{
+			"name": "Streamr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamr/apis.yaml"
+		},
+		{
+			"name": "Streamlio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamlio/apis.yaml"
+		},
+		{
+			"name": "StreamSets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/streamsets/apis.yaml"
+		},
+		{
+			"name": "Landoop",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/landoop/apis.yaml"
+		},
+		{
+			"name": "Socket.IO",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/socket-io/apis.yaml"
+		},
+		{
+			"name": "Confluent",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/confluent/apis.yaml"
+		},
+		{
+			"name": "AWS Price List Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-price-list-service/apis.yaml"
+		},
+		{
+			"name": "AWS Io T Jobs Data Plane",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/aws-io-t-jobs-data-plane/apis.yaml"
+		},
+		{
+			"name": "Striim",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/striim/apis.yaml"
+		},
+		{
+			"name": "Lightstreamer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/lightstreamer/apis.yaml"
+		},
+		{
+			"name": "Push Technology",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/push-technology/apis.yaml"
+		},
+		{
+			"name": "Azure SignalR",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/azure-signalr/apis.yaml"
+		},
+		{
+			"name": "Kaazing",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/kaazing/apis.yaml"
+		}
+	]
+}

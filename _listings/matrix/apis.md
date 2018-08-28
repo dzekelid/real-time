@@ -1,24 +1,28 @@
 ---
 name: Matrix
-description: Matrix is an open standard for decentralised communication, providing
-  simple HTTP APIs and open source reference implementations for securely distributing
-  and persisting JSON over an open federation of servers.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/matrix.png
+x-slug: matrix
+description: An open standard for decentralised secure communication. Please support
+  at https://t.co/oZd61hbMx3! | bridged to https://t.co/ujgzEXDSa4
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11769-matrix.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Real Time
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/real-time/master/_listings/matrix/apis.yaml
+x-alexaRank: "156652"
+tags: Real Time
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/real-time/master/_listings/matrix/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://mastercard.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://matrix.stack.network
 - type: x-blog
   url: http://matrix.org/blog/posts/
 - type: x-blog-rss
   url: http://matrix.org/blog/comments/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/matrix-org
 - type: x-github
   url: https://github.com/matrix-org
 - type: x-twitter
